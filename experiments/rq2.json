@@ -1,0 +1,149 @@
+[
+ {
+  "dataset": "reference",
+  "sigma": 0.5,
+  "dS": 9.24467957390141,
+  "kernel_ok": true,
+  "d_cert": 55,
+  "d_cond": 55,
+  "d_emp": 2
+ },
+ {
+  "dataset": "reference",
+  "sigma": 1.0,
+  "dS": 8.945845322907969,
+  "kernel_ok": true,
+  "d_cert": 28,
+  "d_cond": 27,
+  "d_emp": 2
+ },
+ {
+  "dataset": "reference",
+  "sigma": 2.0,
+  "dS": 8.527111412265649,
+  "kernel_ok": true,
+  "d_cert": 14,
+  "d_cond": 14,
+  "d_emp": 2
+ },
+ {
+  "dataset": "reference",
+  "sigma": 3.0,
+  "dS": 7.950088076786029,
+  "kernel_ok": true,
+  "d_cert": 10,
+  "d_cond": 9,
+  "d_emp": 2
+ },
+ {
+  "dataset": "reference",
+  "sigma": 5.0,
+  "dS": 6.442478194953917,
+  "kernel_ok": true,
+  "d_cert": 6,
+  "d_cond": 6,
+  "d_emp": 2
+ },
+ {
+  "dataset": "rq1_fc8",
+  "sigma": 0.5,
+  "dS": 8.682866973405147,
+  "kernel_ok": true,
+  "d_cert": 102,
+  "d_cond": 101,
+  "d_emp": 17
+ },
+ {
+  "dataset": "rq1_fc8",
+  "sigma": 1.0,
+  "dS": 6.921168542698865,
+  "kernel_ok": true,
+  "d_cert": 54,
+  "d_cond": 54,
+  "d_emp": 18
+ },
+ {
+  "dataset": "rq1_fc8",
+  "sigma": 2.0,
+  "dS": -0.006395318201491307,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc8",
+  "sigma": 3.0,
+  "dS": -5.0729932425528546,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc8",
+  "sigma": 5.0,
+  "dS": -11.105504067706171,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc16",
+  "sigma": 0.5,
+  "dS": 1.272722930358821,
+  "kernel_ok": true,
+  "d_cert": 159,
+  "d_cond": 159,
+  "d_emp": 29
+ },
+ {
+  "dataset": "rq1_fc16",
+  "sigma": 1.0,
+  "dS": 0.22462972599495856,
+  "kernel_ok": true,
+  "d_cert": 106,
+  "d_cond": 105,
+  "d_emp": 40
+ },
+ {
+  "dataset": "rq1_fc16",
+  "sigma": 2.0,
+  "dS": -0.454748665559336,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc16",
+  "sigma": 3.0,
+  "dS": -1.1315735038496832,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc16",
+  "sigma": 5.0,
+  "dS": -5.005257961394605,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc24",
+  "sigma": 0.5,
+  "dS": -6.123155849003176,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc24",
+  "sigma": 1.0,
+  "dS": -7.502881977076768,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc24",
+  "sigma": 2.0,
+  "dS": -7.971312416569852,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc24",
+  "sigma": 3.0,
+  "dS": -8.163762065698144,
+  "kernel_ok": false
+ },
+ {
+  "dataset": "rq1_fc24",
+  "sigma": 5.0,
+  "dS": -8.491235699353417,
+  "kernel_ok": false
+ }
+]
